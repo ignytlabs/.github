@@ -38,7 +38,7 @@ Our agile development process ensures quick iterations and regular feedback loop
 ### 3. Launch & Iterate
 We support you through the launch phase and help gather user feedback to guide future development decisions.
 
-## Why Choose IgnityLabs for Your MVP?
+## Why Choose IgnytLabs for Your MVP?
 
 - **Focused Development**: We concentrate on building only the essential features needed to validate your concept
 - **Time Efficiency**: Rapid development cycles to get your product to market quickly
